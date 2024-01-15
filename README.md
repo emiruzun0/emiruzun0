@@ -15,5 +15,5 @@ Skills: Java / C / C++ / Python / SQL / OOP
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/emiruzun0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/emirhan-uzun/)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=emiruzun0&show_icons=true)  
+
 

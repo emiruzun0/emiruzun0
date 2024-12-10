@@ -8,7 +8,7 @@
 
 🕹️ Projects I'm Proud Of: Check out my repositories to see what I've been up to!
 
-🛠️ Skills and Tools: I'm proficient in Java, C, C++, and Python. I also have experience with MySQL, Spring Framework, Firebase, and more. I have a knack for learning new tools quickly.
+🛠️ Skills and Tools: I'm proficient in Java, C, C++, C# and Python. I also have experience with MySQL, Spring Framework, Firebase, and more. I have a knack for learning new tools quickly.
 
 Skills: Java / C / C++ / Python / SQL / OOP 
 
